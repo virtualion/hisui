@@ -1,0 +1,5 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+5	./Images/hisui/SK-A-3307s.png	-58.5,37.5,40	0,0,1	0,1,0	-1,0,0	-9.041233	-10.563	0.2	1.3	Metal	-1:-1	4
+7	./Images/hisui/SK-A-3262s.png	0,37.5,79	1,0,0	0,1,0	0,0,1	-10.445	-10.4685	0.2	0.9	MetalGold	-1:-1	6
+21	./Images/hisui/unnamed3.png	37.5,37.5,0.5	-1,0,0	0,1,0	0,0,-1	-3.779203	-10.4055	0.2	1.2	Wooden_thin2	-1:-1	23
+22	./Images/hisui/unnamed4.png	58.5,37.5,40	0,0,-1	0,1,0	1,0,0	11.58432	-10.5315	0.2	1.1	Wooden_thin2	-1:-1	24
